@@ -1,16 +1,15 @@
-## Hi there 👋
+**Ethan Terrero**
+CS senior at the University of Oregon (graduating June 2026). I build software at the intersection of AI tooling, backend systems, and crypto infrastructure.
+Now
 
-<!--
-**ethanterrero/ethanterrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Forward Deployed Engineer @ Modern Amenities - automating sales and ops workflows with LLMs.
+Engineer @ Oregon Blockchain Group — decentralized identity infrastructure with KERI/ACDC, Rust/Axum verification service, Veridian wallet integration.
+Engineer Intern @ DASMAC — Dropset, a native Rust on-chain orderbook on Solana built with the Anchor framework.
 
-Here are some ideas to get you started:
+Previously
+SWE Intern @ Envoy (×2) — Rails / Kotlin / TypeScript. Migrated authorization to Cerbos, shipped emergency notification systems, performance work with Datadog.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack
+Python · TypeScript · Rust · Ruby/Rails · Kotlin · Solana/Anchor · Supabase · Postgres · Anthropic API
+Reach me
+📫 [ethanterrero@gmail.com](mailto:ethanterrero@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ethanterrero) · [Resume]({{RESUME_LINK}})
