@@ -1,6 +1,6 @@
 **Ethan Terrero**
 CS senior at the University of Oregon (graduating June 2026). I build software at the intersection of AI tooling, backend systems, and crypto infrastructure.
-Now
+
 
 Forward Deployed Engineer @ Modern Amenities - automating sales and ops workflows with LLMs.
 Engineer @ Oregon Blockchain Group — decentralized identity infrastructure with KERI/ACDC, Rust/Axum verification service, Veridian wallet integration.
