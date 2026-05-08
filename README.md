@@ -13,4 +13,4 @@ Stack
 Python · TypeScript · Rust · Ruby/Rails · Kotlin · Solana/Anchor · Supabase · Postgres · Anthropic API
 
 Reach me:
-📫 [ethanterrero@gmail.com](mailto:ethanterrero@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ethanterrero) · [Resume]({{RESUME_LINK}})
+📫 [ethanterrero@gmail.com](mailto:ethanterrero@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ethanterrero) · [Resume]({{https://github.com/ethanterrero/Resume/blob/main/EthanTerreroResume.pdf}})
