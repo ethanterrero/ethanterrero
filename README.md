@@ -1,4 +1,5 @@
 **Ethan Terrero**
+
 CS senior at the University of Oregon (graduating June 2026). I build software at the intersection of AI tooling, backend systems, and crypto infrastructure.
 
 
