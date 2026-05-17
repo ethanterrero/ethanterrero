@@ -10,7 +10,7 @@ Engineer Intern @ DASMAC — Dropset, a native Rust on-chain orderbook on Solana
 Previous
 SWE Intern @ Envoy (×2) — Rails / Kotlin / TypeScript. Migrated authorization to Cerbos, shipped emergency notification systems, performance work with Datadog.
 
-Stack
+Stack: 
 Python · TypeScript · Rust · Ruby/Rails · Kotlin · Solana/Anchor · Supabase · Postgres · Anthropic API
 
 Reach me:
