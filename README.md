@@ -1,8 +1,5 @@
 **Ethan Terrero**
 
- I build software at the intersection of AI tooling, backend systems, and crypto infrastructure.
-
-
 Integrations SWE at Envoy
 
 
@@ -13,7 +10,7 @@ Ex Forward Deployed Engineer @ Modern Amenities - automating sales and ops workf
 
 Ex Engineer @ Oregon Blockchain Group — decentralized identity infrastructure with KERI/ACDC, Rust/Axum verification service, Veridian wallet integration.
 
-Ex Engineer Intern @ DASMAC — Dropset, a native Rust on-chain orderbook on Solana built with the Anchor framework.
+Ex Engineering Intern @ DASMAC — Dropset, a native Rust on-chain orderbook on Solana built with the Anchor framework.
 
 Stack: 
 Python · TypeScript · Rust · Ruby/Rails · Kotlin · Solana/Anchor · Supabase · Postgres · Anthropic API
