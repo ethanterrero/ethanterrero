@@ -1,4 +1,4 @@
-**Ethan Terrero**
+**Hi! I'm Ethan Terrero**
 
 Integrations SWE at Envoy
 
